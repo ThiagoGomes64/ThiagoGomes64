@@ -1,6 +1,9 @@
 ### Hi there 👋
-
-<!--
+*Olá,muito prazer!
+*o meu nome é:
+[] Pedro Felipe
+[x] Thiago Gomes
+[] Renato
 **ThiagoGomes64/ThiagoGomes64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
